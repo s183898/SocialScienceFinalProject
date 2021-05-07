@@ -1,0 +1,49 @@
+
+{"North": { 
+
+"Stark": 0,
+"Cerwyn": 0,
+"Dormund" : 0,
+"Dustin" : 0,
+"Flint": 0,
+"Glover": 0, 
+"Hornwood": 0,
+"Manderly": 0,
+"Reed": 0,
+"Ryswell": 0,
+"Tallhart": 0,
+"Cassel": 0,
+"Glenmore": 0,
+"Holt": 0,
+"Marsh": 0,
+"Mazin": 0,
+"Mollen": 0,
+"Poole": 0,
+"Warrick": 0,
+"Whitehill": 0,
+"Greenleaf": 0,
+"Forrester": 0,
+"Amber": 0,
+"Brownbarrow": 0,
+"Bolton": 0,
+"Elliver": 0,
+"Frost": 0,
+"Grayson": 0,
+"Greenwood": 0,
+"Karstark": 0,
+"Mormont": 0,
+"Towers": 0,
+"Umber": 0}, 
+
+"Great_Houses":
+{"Stark":0,  "Arryn": 0, "Baratheon": 0, "Tully": 0, "Greyjoy":0, "Lannister":0, "Tyrell":0, "Martell":0 , "Targaryen":0}, 
+
+"South": {"Tarly": 0,  "Redwyne":0, "Florent":0, "Hightower":0, "Royce": 0, 
+"Waynwood":0, "Blackwood":0, "Bracken":0, "Mallister":0, "Stokeworth":0}
+
+
+
+
+}
+
+
